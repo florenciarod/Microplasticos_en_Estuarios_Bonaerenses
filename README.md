@@ -10,4 +10,3 @@ Tecnologías utilizadas:
 Python
 Jupyter Notebook
 Librerías como Numpy, Pandas, Matplotlib y Seaborn.
-Palabras clave: Microplásticos, Contaminación Ambiental, Análisis de Datos, Estuarios Bonaerenses, Python, Jupyter Notebook.
