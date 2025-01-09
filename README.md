@@ -10,6 +10,6 @@ Resultados esperados: Proveer un panorama detallado de la contaminación por mic
 
 Tecnologías utilizadas:
 
-Python
-Jupyter Notebook
-Librerías como Numpy, Pandas, Matplotlib y Seaborn.
+Python,
+Jupyter Notebook.
+Librerías como: Numpy, Pandas, Matplotlib y Seaborn.
