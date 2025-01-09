@@ -1,2 +1,13 @@
-# Micropl-sticos-en-Estuarios-Bonaerenses
-Este repositorio contiene un análisis sobre la presencia de microplásticos en estuarios de la región bonaerense. Utilizando herramientas de Python y Jupyter Notebook, se procesaron datos, se generaron visualizaciones y se obtuvieron conclusiones relevantes sobre la contaminación en estos ecosistemas.
+# Microplasticos-en-Estuarios-Bonaerenses
+
+El proyecto aborda los siguientes aspectos:
+
+Objetivo: Evaluar la concentración de microplásticos en diferentes estuarios bonaerenses y explorar patrones o tendencias relacionados con la contaminación ambiental.
+Metodología: Se utilizaron datos recolectados de muestreos ambientales. A través de Python, se realizaron limpiezas de datos, análisis estadísticos y visualizaciones.
+Resultados esperados: Proveer un panorama detallado de la contaminación por microplásticos en estos ecosistemas, aportando información útil para futuras investigaciones o políticas públicas.
+Tecnologías utilizadas:
+
+Python
+Jupyter Notebook
+Librerías como Numpy, Pandas, Matplotlib y Seaborn.
+Palabras clave: Microplásticos, Contaminación Ambiental, Análisis de Datos, Estuarios Bonaerenses, Python, Jupyter Notebook.
